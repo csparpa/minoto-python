@@ -15,7 +15,7 @@ Please refer to the Minoto documentation for API details and resources model.
 2. Install dependencies with `pip install -r requirements.txt`
 
 ## Usage ##
-```
+```python
 from minoto-python import MinotoClient
 
 publisher_id = 'my-pub-id'
